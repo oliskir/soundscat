@@ -11,7 +11,7 @@ scattering of sound waves by a sphere. Specifically, we
 use the quantum mechanical equations that describe the 
 scattering of a spinless, neutral particle by a square-well 
 potential to compute the scattering cross section of a 
-sound wave striking an iso-velocity sphere using.
+sound wave striking an iso-velocity sphere.
 
 Note that the sound propagation medium is assumed to extend 
 to infinity. A more realistic model would include proper 
