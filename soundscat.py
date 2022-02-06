@@ -6,7 +6,11 @@ import matplotlib.pyplot as plt
 
 ''' Computes the cross section for sound scattering
     by a sphere. The propagation medium is assumed 
-    infinite with uniform sound speed.  
+    infinite with uniform sound speed.
+    
+    The wave equation is,
+    
+        $\nabla^2 \psi + k^2 \psi = 0
 '''
 
 
