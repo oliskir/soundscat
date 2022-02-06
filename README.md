@@ -18,7 +18,7 @@ to infinity. A more realistic model would include proper
 boundary condition, e.g., the sea surface and bottom if 
 the propagation medium is the ocean.
 
-See the [soundscat.py] script for implementation details. 
+See the [soundscat.py](soundscat.py) script for implementation details. 
 Running the script should produce the below figure.
 
 ![Alpha-alpha scattering](output.png)
